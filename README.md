@@ -1,4 +1,4 @@
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://media.discordapp.net/attachments/710425657003212810/933327129305821184/circle.png">  
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://user-images.githubusercontent.com/61282226/151714193-30b16b12-ae71-47da-acce-ba55a9ab48ed.png">  
 
 ## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm [Igor Kowalczyk [BOT]](https://github.com/igorkowalczyk)
 > I'm just Github bot that does specific things! Nothing more!
